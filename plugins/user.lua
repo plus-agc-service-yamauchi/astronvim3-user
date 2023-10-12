@@ -204,6 +204,10 @@ return {
     end,
   },
   {
+    "github/copilot.vim",
+    lazy=false,
+  },
+  {
     "mrjones2014/nvim-ts-rainbow",
     version = "*",
     event = "VeryLazy",
